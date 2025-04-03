@@ -27,3 +27,6 @@ D:\ADPFA1\MMSystem\WebApplication1\obj\Debug\net9.0\refint\WebApplication1.dll
 D:\ADPFA1\MMSystem\WebApplication1\obj\Debug\net9.0\WebApplication1.pdb
 D:\ADPFA1\MMSystem\WebApplication1\obj\Debug\net9.0\WebApplication1.genruntimeconfig.cache
 D:\ADPFA1\MMSystem\WebApplication1\obj\Debug\net9.0\ref\WebApplication1.dll
+D:\ADPFA1\MMSystem\WebApplication1\bin\Debug\net9.0\WebApplication1.staticwebassets.runtime.json
+D:\ADPFA1\MMSystem\WebApplication1\obj\Debug\net9.0\WebApplication1.RazorAssemblyInfo.cache
+D:\ADPFA1\MMSystem\WebApplication1\obj\Debug\net9.0\WebApplication1.RazorAssemblyInfo.cs

@@ -1,0 +1,17 @@
+# .NET build outputs
+bin/
+obj/
+
+# Visual Studio/VS Code files
+.vs/
+.vscode/
+
+# Compiled files
+*.dll
+*.exe
+*.pdb
+*.cache
+*.json
+
+# Runtime files
+appsettings.Development.json
